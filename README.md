@@ -17,7 +17,7 @@
 
 ## 🏅 Certificaciones
 
-- [X] **eLearnSecurity: eJPTv2**
+- [X] **eJPTv2**
 - [ ] (Próximamente) **eWPT**
 - [ ] (Próximamente) **eCPPTv2**
 - [ ] (En un futuro) **OSCP**
