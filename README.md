@@ -23,13 +23,7 @@
 - **eLearnSecurity: EJPTv2**
 - (Próximamente) **eLearnSecurity: EWPT**
 - (Próximamente) **eLearnSecurity: eCPPTv2**
-
-## 🔗 Sitio Web y Canal de YouTube
-
-- [d3b0o.github.io](https://d3b0o.github.io): En mi sitio web, comparto contenido relacionado con ciberseguridad, linux,  tutoriales y recursos para ayudar a otros entusiastas a mejorar sus habilidades en este campo.
-
-- [Canal de YouTube](https://www.youtube.com/@d3b0o_): En mi canal de YouTube, resuelvo máquinas, explico vulnerabilidades y comparto conocimientos sobre ciberseguridad. ¡Suscríbete para estar al tanto de mis últimas publicaciones!
-
+- 
 ## 📬 Contacto
 
 - [Email](arnaudeusedes@gmail.com)
