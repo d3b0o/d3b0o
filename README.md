@@ -18,8 +18,8 @@
 ## 🏅 Certificaciones
 
 - [X] **eLearnSecurity: EJPTv2**
-- (Próximamente) **eLearnSecurity: EWPT**
-- (Próximamente) **eLearnSecurity: eCPPTv2**
+- [] (Próximamente) **eLearnSecurity: EWPT**
+- [] (Próximamente) **eLearnSecurity: eCPPTv2**
 - 
 ## 📬 Contacto
 
