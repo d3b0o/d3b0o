@@ -23,5 +23,5 @@
 - [ ] (En un futuro) **OSCP**
 ## 📬 Contacto
 
-- [Email](arnaudeusedes@gmail.com)
+- Email: arnaudeusedes@gmail.com
 
