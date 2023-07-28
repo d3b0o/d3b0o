@@ -17,10 +17,10 @@
 
 ## 🏅 Certificaciones
 
-- [X] **eLearnSecurity: EJPTv2**
-- [] (Próximamente) **eLearnSecurity: EWPT**
-- [] (Próximamente) **eLearnSecurity: eCPPTv2**
-- 
+- [X] **eLearnSecurity: eJPTv2**
+- [ ] (Próximamente) **eWPT**
+- [ ] (Próximamente) **eCPPTv2**
+- [ ] (En un futuro) **OSCP**
 ## 📬 Contacto
 
 - [Email](arnaudeusedes@gmail.com)
