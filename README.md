@@ -1,6 +1,3 @@
-### Hi there 👋
-# [d3b0o](https://github.com/d3b0o)
-
 ## 🧑‍🎓 Acerca de mí
 
 ¡Hola! Soy d3b0o, un entusiasta de la ciberseguridad y estudiante de sistemas micro informáticos y redes en una FP de grado medio. Mi pasión por la ciberseguridad me ha llevado a sumergirme en el mundo del pentesting y actualmente tengo la certificación EJPTv2 de eLearnSecurity. Mi objetivo es seguir avanzando en mi carrera en ciberseguridad y obtener las certificaciones EWPT y eCPPTv2 en el futuro.
