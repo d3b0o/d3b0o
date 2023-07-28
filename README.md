@@ -36,6 +36,7 @@
 
 ## Apoyo y Donaciones
 
-Si te gusta mi trabajo y deseas apoyarme para seguir creando proyectos y contenido en el ámbito de la ciberseguridad, considera hacer una donación en el siguiente enlace: [Enlace de Donación](https://www.ejemplo.com/enlace_de_donacion).
+Si te gusta mi trabajo y deseas apoyarme aqui pudes donarme: [Enlace de Donación](https://www.ejemplo.com/enlace_de_donacion).
 
-¡Gracias por visitar mi perfil de GitHub! Estoy emocionado por seguir aprendiendo y avanzando en mi carrera en ciberseguridad. Si tienes algún proyecto interesante o quieres colaborar en el ámbito de la seguridad informática, no dudes en contactarme. Estaré encantado de conectarme con otros entusiastas de la ciberseguridad y compartir conocimientos en esta fascinante área.
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="d3b0o" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
