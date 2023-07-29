@@ -19,8 +19,8 @@
 
 - [X] **eJPTv2**
 - [ ] (Próximamente) **eWPT**
-- [ ] (Próximamente) **eCPPTv2**
-- [ ] (En un futuro) **OSCP**
+- [ ] (En un futuro) **eCPPTv2**
+- [ ] (En un futuro lejano) **OSCP**
 ## 📬 Contacto
 
 - Email: arnaudeusedes@gmail.com
