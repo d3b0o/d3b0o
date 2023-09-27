@@ -18,7 +18,7 @@
 ## 🏅 Certificaciones
 
 - [X] **eJPTv2**
-- [ ] (Próximamente) **eWPT**
+- [X] **eWPT**
 - [ ] (En un futuro) **eCPPTv2**
 - [ ] (En un futuro lejano) **OSCP**
 ## 📬 Contacto
